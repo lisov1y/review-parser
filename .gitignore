@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.cache
+logs
+screenshots
+data/output
+.DS_Store
+data/input/points.json
