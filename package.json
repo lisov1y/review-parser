@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx src/test-cloak.ts",
-    "collect": "tsx src/index.ts",
-    "test:point": "tsx src/test-one-point.ts"
+    "yandex": "tsx src/collect-yandex.ts",
+    "2gis": "tsx src/collect-2gis.ts",
+    "google": "tsx src/collect-google.ts",
+    "all": "npm run yandex && npm run 2gis && npm run google"
   },
   "keywords": [],
   "author": "",
