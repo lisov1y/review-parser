@@ -1,0 +1,1733 @@
+{
+  "point": {
+    "id": "005",
+    "name": "Моремания Борисовский",
+    "yandex": "https://yandex.com/maps/org/moremania/67670438287/",
+    "2gis": "https://2gis.ru/moscow/search/%D0%9C%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9/firm/70000001050316103/37.709501%2C55.624769?m=37.709501%2C55.624769%2F17.99",
+    "google": "https://www.google.com/maps/place/%D0%9C%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F/@55.6245,37.7085047,18.25z/data=!4m8!3m7!1s0x414ab3452b93e257:0x4970030d93bc6fb0!8m2!3d55.6244738!4d37.7091521!9m1!1b1!16s%2Fg%2F11n1p8f56q?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  "collectedAt": "2026-05-27T07:01:42.312Z",
+  "reviewsCount": 215,
+  "reviews": [
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tWNFNsUklRVGRHZDBwMmRucDNORU5ETTAxdExVRRAB",
+      "authorName": "Друг на Дороге",
+      "rating": 5,
+      "date": "месяц назад",
+      "text": "всегда всё нравится . Вкусная еда , быстрое обслуживание",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtMUpYWVZ3EAE",
+      "authorName": "Andrey Protasov",
+      "rating": 5,
+      "date": "Изменено 4 года назад",
+      "text": "Супер",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhZ2NuX1dREAE",
+      "authorName": "Илья Миронов",
+      "rating": 3,
+      "date": "Изменено 4 года назад",
+      "text": "Просто рой мух на кухне и зоне выдачи блюд. Насчитал более 9 в поле зрения. Мухи ползают по столешницам, ветоши, плафонам, везде. Уважаемая администрации примите срочные меры! Сегодня Вам минус рейтинг. Обратился к администратору в зоне выдачи интернет заказов. Проверим донес ли он информацию до администрации. С уважением ресторанный критик Миронов.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhNXZYUVdREAE",
+      "authorName": "Dmitry Zhiglov",
+      "rating": 5,
+      "date": "Изменено 4 года назад",
+      "text": "Вкусно. Пока ещё не слишком популярно, поэтому очень свободно м просторно",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VPYmo2ZlRUbHA3Zm5nRRAB",
+      "authorName": "Soft Nison",
+      "rating": 1,
+      "date": "год назад",
+      "text": "18.05 в 17,40 оформлял заказ в котором находилось помимо всего прочего два тыквенных супа. Когда заказ принесли, два супы были острыми. Подойдя к девушке принявшей заказ на кассе с вопросом \"Почему суп острый ?\" Получил ответ \"Вы не просили не острый\"( Хотя по меню стандарт это НЕ Острый, как и в других адресах ресторана 'моремания'). Попросил заменить блюда т.к. я не просил острый. Сначала вроде согласились, потом я уже сам отказался т.к. ждать его еще. Предложила \"комплимент\". Согласился. * Но спустя минут 5 подошла к столу со сдачей (ранее у нее не оказалось размена в кассе) протянула к носу мне её мелкими купюрами по 50-100р. в размере 1960р, во время того, когда я ел и обе руки были заняты приборами, и озвучила, что я виноват сам в том что не попросил не острый, потому никакого \"комплимента\". Сервисом остались недовольны...",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTUNZeE9LT05nEAE",
+      "authorName": "Александр Игнатьев",
+      "rating": 5,
+      "date": "год назад",
+      "text": "Очень свежие морепродукты по адекватным ценам. Сделал заказ через приложение ресторана и все блюда принесли в течении получаса.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN2Nk1lY3NnRRAB",
+      "authorName": "Макс Фролов",
+      "rating": 5,
+      "date": "год назад",
+      "text": "Очень вкусная еда!персонал вежливый , очень атмосферно! Советую сходить",
+      "businessReply": null
+    },
+    {
+      "id": "ChRDSUhNMG9nS0VJQ0FnSUN2Nk5sUhAB",
+      "authorName": "Евгения Андреевна",
+      "rating": 5,
+      "date": "год назад",
+      "text": "Любимое место для вкусного ужина или дружеской встречи! Вкусные блюда из морепродуктов по доступной цене. Комфортная детская площадка с присмотром. Рекомендуем!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMzdWFYY1RBEAE",
+      "authorName": "s m",
+      "rating": 2,
+      "date": "год назад",
+      "text": "решили зайти 6 ноября, попробовать устриц и что нибудь еще. место красивое, но ожиданий не оправдало. через приложение и сайт заказ не сделать, так как ничего не работает, кнопки не кликабельны. попросили карту калорийности, один официант сказал она есть на сайте, второй говорит ее на сайте нет. заказали 6 устриц, 2 пасты, салат и лимонады. устрицы ни о чем. маленькие, дохлые, 2 из них были сломаны, администратор сказал «так бывает, повар не контролирует это, устрицы могут сломаться» и ощущение что устрицы внутри не промывают вообще. на зубах хрустит песок и осколки от устрицы, поэтому на вкус внимание обратить было сложно. паста с лососем в сливочном соусе была безвкусной, а в пасту с вонголе закинули несколько ракушек от моллюска, без самих вонголе. салат более менее неплохой. лимонады манго маракуйя апельсин пить тяжело, косточки застревают на зубах, не очень приятно. что касается устриц, администратор сказал переделают нам 2, которые были сломаны, прождали 15 минут, не дождались и ушли. в общем, впечатление настолько испорчено, что это мой первый отзыв кому либо за все мои посещения кафе/ресторанов. вряд ли вернулись бы еще раз.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURYMHQyZVVnEAE",
+      "authorName": "А. А.",
+      "rating": 2,
+      "date": "год назад",
+      "text": "Раньше безумно нравилось это заведение и персонал хороший,и чистота была ,и кухня вкусная. Сейчас- это какой то ужас. Зашли с мужем перекусить и сразу бросились в глаза 2 азиата,которые делаю суши ,но вместо работы они решили побороться ,при чем возле еды в районе рабочей зоны,на них были перчатки для готовки ,этими перчатками перетрогали все вокруг и друг у друга,потом стали лепить суши этими же перчатками(((( Ждали заказ долго ,думали ,готовят,свежее поэтому и долго . В итоге принесли все холодное и с каким то привкусом \"старости\". У кассы стояли долго,ждали чтобы приняли заказ,наблюдали за \"поворами\" если их так можно назвать,со стороны,как муравейник,куча людей,чё то бегают,делают ,но ничего не делают,смеются,переговариваются в руках с рыбой и помидорами ,которые сто раз уже поюлозили. Кассир недоброжелательный ,с сильным акцентом и сложно было понять,что он говорит ,а говорил он что надо пойти на другую кассу,хотя мог бы принять нас,так как скопилось приличное кол - во людей. В общем,больше туда не ногой",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNYdXVEbWl3RRAB",
+      "authorName": "Doli Asanbai uulu",
+      "rating": 5,
+      "date": "год назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURMLTk3eVpnEAE",
+      "authorName": "Svetlana Svetlana",
+      "rating": 1,
+      "date": "год назад",
+      "text": "Всем добрый день ! Как мы радовались когда она открылась !!! Слов нет ! Но к большому сожалению , весь первый состав официантов ушел (видимо мало платят и много хотят ) и ровно так же поменялись повора. Готовить стали не вкусно , ожидание долгое . Официанты заняты чем угодно только не клиентами . Грязно . были сегодня 01.07.24 пустой зал , от силы пять столов. Остальные не убраны , не протерты сиденья грязные все испачкано , банально искали где присесть . Обратите внимание ! Руководители и управляющий состав , где Вы ? Очень жалко терять такое место",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VNSFB2UFNsLV9tMFdREAE",
+      "authorName": "Darya Vereshchagina",
+      "rating": 2,
+      "date": "год назад",
+      "text": "Лет 5 точно хожу в эту мореманию, раньше персонал, сервис и еда были на высоте, сейчас тихий ужас с припиской от \"шефа\" или как там ещё. Приносят все пережареное, бургеры, пицца холодные, всегда брала Мидии в соусе блю чиз, сейчас это есть невозможно, из блю там только водоросли на неочищенных ракушках. Как можно принести Мидии, 40% из которых закрыты или расколоты?! В общем, в эту точку мы точно ни ногой. Ранее были в Марьино, там много чего не было по меню, но принесли отборные Мидии, ни одной закрытой или сломанной и тёплый, вкусный бургер. Итог такой, что это прекрасное заведение больше таким не является (",
+      "businessReply": null
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTFJUTkNSMFEwWW01SFYyVlhkMk5RVkRCYVIxRRAB",
+      "authorName": "Татушка Татарникова",
+      "rating": 5,
+      "date": "7 месяцев назад",
+      "text": "Всё вкусно. Даже завтрак есть.",
+      "businessReply": null
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25sUFZUaGtVR2hxTUZOTlIyNUhTMEZxY1hWS1VFRRAB",
+      "authorName": "Pavel Pavel",
+      "rating": 1,
+      "date": "6 месяцев назад",
+      "text": "В пасте с крабом целлофан",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURLbll5ZWZ3EAE",
+      "authorName": "Татьяна С.",
+      "rating": 4,
+      "date": "5 лет назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURLOW9pbDBnRRAB",
+      "authorName": "Никита Марков",
+      "rating": 1,
+      "date": "5 лет назад",
+      "text": "Мореманию посещаю уже давно, особенно заведения на Автозаводской. Поэтому есть с чем сравнить. Первый поход 20.03.2021 продолжился кишечной инфекцией после риса с угрём. Тут конечно можеть быть просто совпадение, а может и нет. Второй поход 10.09.2021 был просто эпическим. Не хотелось рисковать после первого похода, поэтому решил для начала ограничиться супом. Половины меню не было в наличии. Заказал себе уху и блюдо для жены. Уху ожидал около 40 минут. В зале было заполнено не более четвёртой части мест. После 25 минут ожидания обещали ускориться, но не помогло. Уху принесли в тот момент, когда я уже стоял и одевался, через 40 минут после заказа. Спасибо работнику Анне Жуковой, за то, что хотя бы вернули деньги. Отдельно хотел бы поблагодарить сотрудника Никиту, который во время общения с командой ресторана откровенно хамил. В целом, если не хотите иметь испорченное настроение и аппетит, то посещать данное заведение категорически не стоит.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURLNHRhLTBRRRAB",
+      "authorName": "Nadin Mirovskaya",
+      "rating": 5,
+      "date": "5 лет назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURLN0xLRXNRRRAB",
+      "authorName": "Марина Сарбеева",
+      "rating": 2,
+      "date": "5 лет назад",
+      "text": "К моему великому сожалению, ужасное обслуживание: в 10:30 ( открытие в 10) кафе к открытию не готово, посетителей никто не ждет. 15 минут ждали, пока кто то подойдет к кассе, заказ приняли кое как, забыли половину заказа внести в чек. Ждали приготовления 30 минут, при этом чиабатту принесли холодную, яйца пашот просто сырые. В зале было занято 2 столика, персонал просто не спешил. Клиенты говорят, так тут всегда((",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNLLWNIaENnEAE",
+      "authorName": "Анастасия Нефедова",
+      "rating": 3,
+      "date": "5 лет назад",
+      "text": "Ходили компанией в новую Мореманию на Каширском шоссе. Все вкусно, классно. Но все, кто ел большие тихоокеанские устрицы, слегли с отравлением",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNLLWU2REVREAE",
+      "authorName": "заносе",
+      "rating": 1,
+      "date": "5 лет назад",
+      "text": "никто не встречает, свободные столы грязные ! официанты не приветливые и не подходят к новым гостям ! просидев 15 минут, позвали официанта, подошел официант сказал щас щас ( не протерев *естественно* стол никто естественно не подошел! ушли ) ну наверно поэтому такие цены дешевые!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNXNHVIR1h3EAE",
+      "authorName": "Андрей Петров",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Класс ,рыба вкуснятина,отзывчивый персонал.можно посидеть в компании,вкусно поесть,вкусно попить,всёже дороговато.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNXX1BpSjd3RRAB",
+      "authorName": "Anna Fliker",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNXblBXT3VBRRAB",
+      "authorName": "Екатерина Борцова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Отличное место, всё очень вкусно 😋 Цены так же радуют!!! Молодцы 👍",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNXOU1YRDZRRRAB",
+      "authorName": "Илья Подкидышев",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNXcFAtT2dBRRAB",
+      "authorName": "Екатерина Никитина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNXLUplbWZnEAE",
+      "authorName": "Oleg Budkevich",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNXdUtfMmlBRRAB",
+      "authorName": "Ирина Тенелева",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNXbUlPSEpBEAE",
+      "authorName": "Алеся Демченкова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNXbU9MaTlBRRAB",
+      "authorName": "Alla Reviewer",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Кафе-магазин в \"Борисовском\". Немного неудачное местоположение, зато посетителей немного. Большой зал, огромное количество посадочных мест. Очень симпатичный тематический интерьер, расписанные стены и бочки-раковины. Оплата на кассе, а блюда разносит персонал в форме. Цены приятные, рыба свежая. Можно закупиться замороженными креветками по доступной цене. Один минус - приборы общего доступа, очень негигиенично, потому ели палочками.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNXa0pIbHhnRRAB",
+      "authorName": "Наталья Семенова",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "Место больше похоже на столовую чем на ресторан. Очень шумно. Долго ждали заказ. Рыбные блюда вкусные, но не вау! Все с косточками, даже стейки. Мы дома вкуснее готовим. Второй раз не пойду.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtbi1iSWVBEAE",
+      "authorName": "Ната Фила",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Вполне понравилось! Немного пересоленная еда. Еще вернёмся!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtajhYMUdREAE",
+      "authorName": "natalia kolyabina",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtOTZtQmNBEAE",
+      "authorName": "Ольга Оглоблина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURteTRuakhREAE",
+      "authorName": "Людмила Соляник",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtOF9MU3JnRRAB",
+      "authorName": "Людмила Дыкина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtdmRxLUl3EAE",
+      "authorName": "Катя Пономарева",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Неплохое кафе, готовят на 4. Часто нет в наличии продуктов. Но цены отличные на морское",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtM2VTTEZBEAE",
+      "authorName": "Андрей Чужиков",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtbmItVWp3RRAB",
+      "authorName": "Татьяна Булатова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtbmVtcVNBEAE",
+      "authorName": "Владислав Горбунов",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Качество блюд среднее...",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtelpIOEFREAE",
+      "authorName": "Елена Мангир",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtamQyRkR3EAE",
+      "authorName": "Александр Ионов",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtZ1lURnB3RRAB",
+      "authorName": "Ирина Горохова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Свежайшие морепродукты. Вкусная кухня, замечательное обслуживание. Кто любит рыбу и морепродукты, оценят однозначно.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtcXBfRFpREAE",
+      "authorName": "Вадим Доронькин",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "Демократичное меню, но зал грязноват.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtZ3RYYlJREAE",
+      "authorName": "ALEX P.",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtX0xmTW5nRRAB",
+      "authorName": "Олег Копаев",
+      "rating": 2,
+      "date": "4 года назад",
+      "text": "Не понравилось. Кальмаров подали почти сырых, овощи на гриле отвратительные. При этом, в моремании на добрынинской эти блюда запомнились больше всего, ради них и пришли. Не рекомендую.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtbk9hc0hREAE",
+      "authorName": "владимир дюсов",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtak5leG5nRRAB",
+      "authorName": "Elena Lozanova",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Хорошая сеть ресторанов. Всегда быстро приносят заказы, всегда вкусно. Данное место очень удивило большой площадью, просторно и комфортно. Рекомендую!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURtakp1UkNnEAE",
+      "authorName": "Ленка Еленка",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Огромное помещение, свободное. Мы были в четверг в 21 час. Народу было максимально мало. Быстро обслужили. Очень вкусно. Имеется винная карта, меню на раскладной брошюрке и по QR-коду на столике через приложение. Можно заказать на вынос, возможна доставка, а так же можно купить свежие морепродукты прямо в заведении. Приходите с детьми до 14 лет и будет вам скидка 15%.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURtc095YnBRRRAB",
+      "authorName": "Алена Иванова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtdjZIdm1nRRAB",
+      "authorName": "Яна Жалсараева",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtdTRPVlVnEAE",
+      "authorName": "Андрей Сердюк",
+      "rating": 2,
+      "date": "4 года назад",
+      "text": "Просто очко кобры какое то, воняет и дорого. Официанты явно под чем то",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtdy1lNFZ3EAE",
+      "authorName": "сергей Рябинин",
+      "rating": 1,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtdzdyWUNREAE",
+      "authorName": "Дмитрий Чайка",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtdFliUWFnEAE",
+      "authorName": "Tatiana Bondarenko",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtMWI3QTNBRRAB",
+      "authorName": "Валерия Скрипник",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtNWFDUFlREAE",
+      "authorName": "Рамиль Хайбуллов",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Норм, брали суп Том Ям, вкусно, но пробовал и лучше. Ещё пару моментов: брали 5 супов, ингредиенты по порциям распределены неравномерно, и попалось несколько кусочков створок мидий.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNteWN5Wk9BEAE",
+      "authorName": "Ирина Овчинникова",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Прохладно и в кухне есть недочёты.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtMFpqMTB3RRAB",
+      "authorName": "Demon AD",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtb2FidTZnRRAB",
+      "authorName": "Геннадий Алексеев",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Отличное место , вкусно готовят.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtb1pEUC1BRRAB",
+      "authorName": "Irina Viv",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Выбор большой блюд, но девушка на кассе плохо ориентируется в том, что есть. Обслуживание очень быстрое, но столики на 1-4, а если компания больше то всего 4 таких столика на весь громадный стол приятно, если заседишься, то вам подарят пироги",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtNXViN3Z3RRAB",
+      "authorName": "Марина Брундасова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtaHRDQ25nRRAB",
+      "authorName": "Andrey Svetikov",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtMnBxeFNBEAE",
+      "authorName": "Артур Бабий",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtNkp1cG13RRAB",
+      "authorName": "Kirill Gromochenko",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Хорошая дружелюбная атмосфера, приятное место. Гребешки, ракушки, том ям, малосоленая сёмга были очень даже, а вот бургер и тунец вообще не понравились, в бургере были сухие булки и мало соуса, а тунец тупо приготовили до состояния подошвы. Хорошее место, главное знать, что хочешь заказать.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNtNklQV2lBRRAB",
+      "authorName": "Анастасия Овчинникова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Рыба восхитительная, нежная, свежая. Цены ниже, чем на свежую рыбу в супермаркетах. Прекрасная рыбная сеть! 🙂 …",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNteUpiYlJnEAE",
+      "authorName": "Stanislav “Robinzone” Kulakov",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Весьма оригинальное заведение: огромный светлый зал с диванами, однако заказ нужно делать на кассе (можно через приложение сидя за столом). Устрицы подают не всегда живые - это минус. В остальном готовят вкусно. Прекрасное разливное пиво по 200 р/кружка.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNtMEt1UWFREAE",
+      "authorName": "Степан Кузнецов",
+      "rating": 2,
+      "date": "4 года назад",
+      "text": "Раньше было лучше (с) С каждым посещением порции все меньше, качество все хуже. Те блюда, которые заказывал в начале года, стали в 1.5-2 раза меньше, на каждом столе разное количество заранее подготовленных приборов и сопутствующих аксессуаров. Детская комната открытая, по этому, готовьтесь к постоянным \"ааааааа\". В целом - я понимаю, что это не прямо ресторан, но можно было бы и держать заданную ранее планку. Раньше - меня все устраивало, сейчас же - смотрю в сторону других мест.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURHdF9MUmxRRRAB",
+      "authorName": "Xaxangel 88",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURHeDU2VGN3EAE",
+      "authorName": "Лариса Карпенко",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURHaDk3SU93EAE",
+      "authorName": "Xelga Severina",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Нет в продаже морских ежей,устрицы запрещено брать на вынос. Карпаччо из сёмги обалденное!!!",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURHMjhHZjJ3RRAB",
+      "authorName": "Andrey Palutin",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURHcTZqazNnRRAB",
+      "authorName": "Вероника К",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURHODYzOThBRRAB",
+      "authorName": "Алексей Никифоров",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Вкусные блюда )))",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURHaFlUSG5RRRAB",
+      "authorName": "GOTY",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURHdVpyOF9nRRAB",
+      "authorName": "Julia B",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Еда прекрасная, необычная, свежая! Обслуживание ... ну не в удовольствие ребятам :) Например, когда я попросила лимон к воде, мальчик на кассе, бесстыже смотря в глаза, сказал, что лимона нет, и даже на уточнение, что это место с морепродуктами - всё равно нет. А девочка, которая принесла воду,, сказала, что лимон, конечно, есть, но если заказываешь через приложение, а не у кассы. Но вкусно. Вернусь, игнорируя персонал :))",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURHdm83YmdBRRAB",
+      "authorName": "Игорь Львов",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURHck92VllnEAE",
+      "authorName": "Юлия Лукина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURHeEpxYk9BEAE",
+      "authorName": "gospel Yandex",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURHbU8ySXFRRRAB",
+      "authorName": "Zakharenkov Alexey",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Вкусно и добропорядочно",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURHZ0tUdkVnEAE",
+      "authorName": "Boris Gorbunov",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHMzdteU1BEAE",
+      "authorName": "Санечка Роева",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Мне очень нравиться туда ходить, очень люблю супчики",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNHNTZtcjhBRRAB",
+      "authorName": "Elena Korchivaia",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNHMDhLc3RnRRAB",
+      "authorName": "Елена Филякина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHeVp6R0h3EAE",
+      "authorName": "Григорий Зайцев",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Вначале место нравилось,новое, очень большой зал, удобно. А потом разонравилась т.к. постоянно чего-то нет из меню, постоянно нет пива и подняли цены. Из меню нравиться суп байобас и рыба на гриле. Все что в панировке бее",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHanZlMEJBEAE",
+      "authorName": "Alex Yushkov",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHaHNDcFpBEAE",
+      "authorName": "Магди Хасанов",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Обслуживание могло быть лучше. Не сказать и что недорого. Пообедать можно.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNHbW9fc3lBRRAB",
+      "authorName": "konstantin Balakin",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHbXJPdkhBEAE",
+      "authorName": "sCRAM pROJECT",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Копчёная форель и дорадо на гриле,наши фавориты,цена менее чем в Ашане!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHaXZudFN3EAE",
+      "authorName": "inna neznakomova",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Отличное место где можно бюджетно поесть свежую рыбу и морепродукты",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNHc3NiYXBnRRAB",
+      "authorName": "Иван Жуков",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHc3BUY2ZREAE",
+      "authorName": "Надежда Краснокутская",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNHd3R1UzVBRRAB",
+      "authorName": "Mlkhail Medvedev",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHMU5tZ0tnEAE",
+      "authorName": "Надежда Лавринович",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Всегда свежие морепродукты)!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHeElHMkhnEAE",
+      "authorName": "Ольга",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Уютно, комфортно, вкусно. Рекомендую посетить",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHMEx5Z0tnEAE",
+      "authorName": "Юлия Борисова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNHd056dWNBEAE",
+      "authorName": "Ирина",
+      "rating": 2,
+      "date": "4 года назад",
+      "text": "Быстро, вкусно, удобное расположение.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNHd1BERmtnRRAB",
+      "authorName": "В K",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Хорошая, большая моремания. Иногда хромает сервис, приносят все как готово, в таком порядке, ну и гриль 40 минут ждать, само собой. Но все равно топ.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ2XzRIVjJnRRAB",
+      "authorName": "Павел Павлов",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2Mzh5QkpBEAE",
+      "authorName": "Evgenii Basov",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Все очень вкусно и прекрасно! Всегда все очень свежее, порции большие!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2MDkyaUJ3EAE",
+      "authorName": "Nina Moskaliuk",
+      "rating": 1,
+      "date": "4 года назад",
+      "text": "Заказали рыбу на гриле, которая готовиться максимум 15 минут. Ждали 50 минут заказ, про который забыли по всей видимости. Ещё и на вопрос о том, почему рыба ещё не готова, было сказано: «но вы же не час ждёте…». Проведите обучение по общению с клиентами со своими сотрудниками да и в целом по обслуживанию",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2ZzRXRGZREAE",
+      "authorName": "иван bogdanoff",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Вкусно. Но есть одно но , в вск в 17 часов вечера нет 3/4 блюд , поэтому планируйте поход заранее. Также при заявленном возврате при неприготовленном за 20 минут блюде - никто этого не сделает.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2bmJpdkdBEAE",
+      "authorName": "Вера Гарина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Мореманию люблю :-) Обычно вкусно и цены приятные очень",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ2emVDc2hBRRAB",
+      "authorName": "Мягзум Алимов",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Хорошее кафе. Для посещения необходимо скачать приложение на смартфон или с поносом к кассе. Продукты качественные, блюда по вкусу около \"4\". Рекомендую.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2NmFmTEZnEAE",
+      "authorName": "82ooo",
+      "rating": 2,
+      "date": "4 года назад",
+      "text": "Буйабес, том Ям , кальмар в кляре морепродукты резиновые, понедельник утро - лосося нет и до среды не ожидается.... Карпаччо из Марлина пресноватое и с нежующимися прожилками. Креветки с соусом васаби - нет в наличии. Бульон в том яме зачёт, единственный плюс и сангрия тоже ничего. Вряд ли ещё придем",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2eVl5bmZREAE",
+      "authorName": "Olga Pereverzeva",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Вкусно, но грязно. Ходили искали чистый столик. Посуду убирают, а столы не протирают.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2c2Z5cklREAE",
+      "authorName": "Aleksandr raw",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NGVyazZ3RRAB",
+      "authorName": "Иго Андр",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "Ожидания превосходят реальность",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ2M3RiMnRBRRAB",
+      "authorName": "Андрей Гарин",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2NnBuRmRREAE",
+      "authorName": "Olga Che",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Вкусно! Невысокие цены и небольшие порции) можно купить свежую рыбу, при тебе её ещё и приготовят..",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2cXAzZE53EAE",
+      "authorName": "Марина Макарова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Очень понравилось. Большой выбор, все свежеприготовлено и вкусно. Цены приемлемые. Большой ассортимент. Есть магазин. Удобно заказывать, используя приложение. Мест много. Обязательно пойдём ещё.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2cXEzbk13EAE",
+      "authorName": "Дмитрий Плетнев",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "Стало хуже. Буайбес хуже, корюшку и ставридку в кляре убрали из меню.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ2cXZ5SHZ3RRAB",
+      "authorName": "Iurii Vronskii",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2OHRMQlNBEAE",
+      "authorName": "Al Priv",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NHRIX2p3RRAB",
+      "authorName": "Oleg Afanasyev",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Очень вкусно и по ценам вполне человечно! Удобный заказ еды и оплата через приложение.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ2bk1TWnpnRRAB",
+      "authorName": "Наталья Шелухина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ2c0s2RWVnEAE",
+      "authorName": "tatka2607",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM2MzhLb3dRRRAB",
+      "authorName": "Светлана Ахмедьярова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2NzZxS1F3EAE",
+      "authorName": "Pet Kab",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Хорошие место, косяк один пришли в воскресенье после обеда больше половины меню недоступно, и роллы как-то не очень.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2OTh2SExREAE",
+      "authorName": "* Kat",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM2cDdtcy1nRRAB",
+      "authorName": "bober",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Ну вроде норм, вкусно!",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM2cS12ZjVRRRAB",
+      "authorName": "Сергей Ковальчук",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "В целом место отличное но вопросы к получению заказа оставили небольшой осадочек",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2azVPTWRREAE",
+      "authorName": "Влад Никулинский",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Для Богов!!!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2NF95MmVnEAE",
+      "authorName": "Verbal Violence",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2dWUzSFNnEAE",
+      "authorName": "Экстра Кар",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Очень хорошее место. И недорого пообедать можно.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM2OGNHcjdBRRAB",
+      "authorName": "Август Юпитерский",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM2cnQtazFnRRAB",
+      "authorName": "Sergey Kuznetsov",
+      "rating": 1,
+      "date": "4 года назад",
+      "text": "Прийти, увидеть поупустой зал и не поесть? Это сюда. Первый раз видел, чтобы абсолютно всё меню было в стопе. Пришлось уйти",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2MXZTZEx3EAE",
+      "authorName": "Iv Iv",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "Суббота, 11.30, занято 5 столов, 1 блюдо ждали ровно 20 мин, 2 блюда больше 20 мин! Скорость работы мигрантов на кухне на 2 с \"-\". Котлета в микс бургере сухая и пережаренная по краям, впечатление, что разогревали! Булочка - холодная! По официантам, молчу((( Вобщем, сначала порадовался, что рядом такое хорошее место открыли, но больше сюда есть не пойду!",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM2dXZPR2xBRRAB",
+      "authorName": "Вячеслав Селезнёв",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2MHBIZEt3EAE",
+      "authorName": "Katerina Karneeva",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2cU15UlZ3EAE",
+      "authorName": "Артем Вегера",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Как хорошо зайти на обед в будний день устриц пожевать)",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM2MFB6QkRnEAE",
+      "authorName": "Andrew Frolov",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Отличное место где просто можно вкусно и быстро поесть, очень удобное обслуживание через приложение, хорошая альтернатива, когда хочется поесть морепродуктов, а дома готовить лень. Цены приемлемые, есть винная карта. Очень рекомендую.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhcmJ6Q1NBEAE",
+      "authorName": "Татьяна Даймидзенко",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Вкусно, быстро, дали ещё подарки с собой",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhX28zbWNREAE",
+      "authorName": "Mihail Qa",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhcm9tVklnEAE",
+      "authorName": "Сергей Гуляев",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Отличный ресторанчик",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURham9Ibi1BRRAB",
+      "authorName": "Nataliia Mazurova",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhbHVuaVBBEAE",
+      "authorName": "Оксана Яситникова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Прекрасное и вкусное место. Готовится все из под ножа.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhNXBlMGNBEAE",
+      "authorName": "Андрей Шкурин",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Прекрасное кафе с отличными продуктами, качественными и вкусными блюдами. Цены демократичные.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURhcHZ1RDh3RRAB",
+      "authorName": "Ринат Низамов",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhLXZxRkxBEAE",
+      "authorName": "Алексей Ожерельев",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURhOHBmMDF3RRAB",
+      "authorName": "Мария Матвеева",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "Посетили этот филиал 17.08.21, около 8 вечера. Будний день, загрузка 2/3. Мореманию любим и ценим, но в Борисовском всё впечатление испортило обслуживание. Заказали том ям, пеко, спагетти и фреш. К слову, всё вкусное, хотя том ям мужа разочаровал по недостаточной остроте. Прождали 20 минут, ничего из заказа нам не принесли. На столе стоят информационные таблички о том, что при ожидании блюда более 20 минут стоимость блюда возвращается. Через несколько минут пошли искать администратора, в это время принесли суп. На вопрос: когда будет остальное, мы ещё несколько блюд заказывали? высокий официант ответил, что \"может вы много чего и заказывали\" (с), но он принёс только том ям и рассольник и хочет выяснить, оба ли супы наши. Когда мы повторили вопрос про остальное, он сказал сокрушенно \"ой-ой-ой-ой\" (типа: ну начинаааается, ох уж эти клиенты), развернулся и ушёл. Мы пошли к администрации. Администратор предложила нам только сок в качестве компенсации, но мы отказались, поскольку сок нам совсем не был нужен. Необходимые блюда, впрочем, тут же нашлись и были поданы. Итого мы прождали свой ужин пол часа. Может и немного для хорошего ресторана, но в Моремании другой коленкор и подход. И обещания свои она не сдержала. Впечатление испорчено. Причем, мы отнюдь не скандалисты. Но увы....",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURha3AyQ1RREAE",
+      "authorName": "Ольга Гудкова",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Уютное местечко",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhd3ZiTVF3EAE",
+      "authorName": "Костя Кузнецов",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURhMUpPUG1RRRAB",
+      "authorName": "Aleksandr Belmont",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Уровень столовой и ниже. Рыба вся с костями. Это нонсенс. Рыбное филе, после употребления которого нужно обращаться к врачам чтобы вытащить кость из горла? Я больше ни ногой. Никому не рекомендую. 5 звёзд чтобы не стёрли комментарий.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhNUw3eUhBEAE",
+      "authorName": "Ksenia Stoiakova",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Отличное место с демократичными ценами, но к воскресенью заканчивается большая часть продукции) есть алкоголь (вино) и вкусные освежающие лемонады👍 …",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURhcE0zaGxRRRAB",
+      "authorName": "Станислав Савиных",
+      "rating": 1,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURheFAzLWlRRRAB",
+      "authorName": "Светлана",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURheE4zMExREAE",
+      "authorName": "Мария Молчановская",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURheE55aHF3RRAB",
+      "authorName": "Галина Рехтина",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhcU91UUFnEAE",
+      "authorName": "Анна Анисимова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "С подругой встречаемся только здесь! Очень все вкусно. Спасибо большое !",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURhb1BfYXJBRRAB",
+      "authorName": "Елена Депутатова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURhd1A2VmJBEAE",
+      "authorName": "Валерия Ерастова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhOTVqaUFREAE",
+      "authorName": "Kristina Mushref",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhMDR2LWdRRRAB",
+      "authorName": "solarbless",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Приятное кафе, расположено на 2м этаже, есть некрытая летняя веранда на парапете 2го этажа. Заказывали тыквенный суп, оказался очень острый 🔥 …",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhNDhta0xBEAE",
+      "authorName": "Евгения Цой",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "Не вкусно",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhNDk2MTV3RRAB",
+      "authorName": "Sergey Yazykov",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Очень удобно организовано меню через приложение, много столов, большие порции, очень вкусно.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhX1liUFJBEAE",
+      "authorName": "Наталия Галкина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhM1o2a293RRAB",
+      "authorName": "Юлия Ракова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "В суб днём заказ принесли быстро, всего через 10 мин. Суп Том Ям понравился.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhdGR5YTVBRRAB",
+      "authorName": "Zazu OSTY",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Замечательно как и всегда, и обслуживание быстрое!",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNheGNybTJ3RRAB",
+      "authorName": "МАРИНА Горбачева",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhaGRDckZ3EAE",
+      "authorName": "Светлана Фомина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Очень вкусное место. Всегда свежие морепродукты",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhLVo2Zm53RRAB",
+      "authorName": "Galina M",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Очень вкусно!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhdWRiSkdBEAE",
+      "authorName": "Anna Anna",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhdWRxcVNBEAE",
+      "authorName": "Андрей Никишаев",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhdnVMVTlRRRAB",
+      "authorName": "Кружалов Дмитрий",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhanRhQTBRRRAB",
+      "authorName": "Федор Дубровский",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhMXVDUlVBEAE",
+      "authorName": "ден лен",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhbG9MY2JBEAE",
+      "authorName": "Lusyen M",
+      "rating": 3,
+      "date": "4 года назад",
+      "text": "Так себе всё",
+      "businessReply": null
+    },
+    {
+      "id": "ChRDSUhNMG9nS0VJQ0FnSUNhLXI0ZhAB",
+      "authorName": "Владимир Жирнавой",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Шикарное место , рекомендую!!!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhNnNxZ1Z3EAE",
+      "authorName": "Светлана Л.",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhbkpLX1l3EAE",
+      "authorName": "Людмила Иванова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Все очень вкусно и недорого! Зал большой и чистый, обслуживание хорошее, официанты мега вежливые и быстрые. Рекомендую!",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNhckpLT0ZnEAE",
+      "authorName": "Мила Кель",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Ребятам есть куда расти. Но по части морских гадов они первые на районе",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhaktmWXN3RRAB",
+      "authorName": "Ольга Сибилева",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhak4yU3VnRRAB",
+      "authorName": "ТракторТех",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhOU91NHJnRRAB",
+      "authorName": "Александр Ананьев",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Вкусно!! Бюджетно. Хороший выбор.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNhZ01tODlnRRAB",
+      "authorName": "Алексей Линьков",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURxajR6bk9nEAE",
+      "authorName": "Виктория Шумская",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURxOTlYcEdBEAE",
+      "authorName": "Екатерина Романова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Очень вкусно! Цены приятные",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURxOGRidl93RRAB",
+      "authorName": "Алина Дударева",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURxMGZuUU1nEAE",
+      "authorName": "Ale Kilw",
+      "rating": 1,
+      "date": "4 года назад",
+      "text": "Решили посетить мореманию, расположенный в ТЦ Борисовский 11.07.2021 в промежуток времени 20:30-21:00. Просидев почти 20 минут никто из официантов не подошёл и не принял заказ, при условии, что народа было очень мало. При входе на веранду сидит сотрудник, который залипает в телефоне, абсолютная невнимательность персонала к гостям",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURxem9PbGl3RRAB",
+      "authorName": "Мария Миронова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURxc3Q3THdRRRAB",
+      "authorName": "Ксения -Ksenia",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Уютно и очень вкусно. Я к рыбе очень равнодушна, но в Моремании, мне все блюда понравились, заезжаем сюда теперь всегда, когда проезжает мимо.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURxb3ZQXzJBRRAB",
+      "authorName": "Екатерина «Tutti-Fruttik» Блынская",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Ресторан магазин. Свежие морепродукты. Можно делать заказ по qr коду за столом и также оплачивать, через приложение. Еда вкусная, большой выбор блюд из морепродуктов.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURxZ3BMT2t3RRAB",
+      "authorName": "Arty Bor",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURxbUphUXJRRRAB",
+      "authorName": "Дима Жуков",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURxaU5TT21nRRAB",
+      "authorName": "Artem",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Чисто, быстро и вкусно.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURxc01QLUt3EAE",
+      "authorName": "Alexander Klimeshov",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxbDVYMFVnEAE",
+      "authorName": "Irada Sultanova",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxbV9lWk9nEAE",
+      "authorName": "Ксения Михайлова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxcS1YRHZnRRAB",
+      "authorName": "Екатерина Лейбова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxaTYtR0h3EAE",
+      "authorName": "Michael Borisov",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Шикарный ресторан. Отличные рыбные блюда по демократичной цене. Всем севетую.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxOF9tN2ZnEAE",
+      "authorName": "Сергей Мелехин",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Моремания - в целом интересное сочетание рыбного маназина и бистро, где можно тут-же эту рыбу и приготовить или заказать блюда по меню. Не могу скулить в целом о сети заведений, но про Мореманию на Каширском ш-се, д. 2 (кажется) скажу так - понедельник не их день. Часто в понедельник пустые прилавки, \"дыры\" в меню из-за того, что нет ингридиентов, сбои в программе и другие неприятности. Видимо наплыв посетителей в выходные, но я думаю - это проблемы в организации поставок по сети. Идея недорогих рыбных блюд в меню работает отлично. За сумму, сопоставимую с Макдональдс, можно получить нормальную еду. Но по мере того, как ты продвигаешься по меню, понимаешь, что блюд достойных не так уж и много. Возможно это дело вкуса. Иногда приходится ждать блюдо долго, иногда приносят всё сразу. К этому нужно быть готовым. Много делается из заготовок и разогревается. В общем, интересная коммерческая затея без особой выдумки и изысков, но честная и сытная.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxNDUyeWV3EAE",
+      "authorName": "Варсеник Апинова",
+      "rating": 1,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxX2ZPZzh3RRAB",
+      "authorName": "Татьяна Аронина",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Очень вкусно! Быстро и не дорого! Хорошее место.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxcmFtaFZBEAE",
+      "authorName": "Татьяна Ковалева",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Странно когда при наличии рыбы на прилавке нет Филадельфии в наличии...",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxemFDUThnRRAB",
+      "authorName": "Гулзада Султаналиева",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Все отлично спасибо моремания",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxamFmaWhRRRAB",
+      "authorName": "Dar Grad",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "Многие позиции, к сожалению, в меню отсутствовали, но то, что удалось попробовать, было выполнено вкусно и качественно. Обслуживание быстрое, официанты вежливые. Удобная система заказа и оплаты через приложение.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxamJhNXNBRRAB",
+      "authorName": "Ksenia Karpukhina",
+      "rating": 1,
+      "date": "4 года назад",
+      "text": "Отвратительное место, жуткая вонь, персонал вообще работать не хочет, сидели 10 минут, никто не подошёл. QR код на столе не работал. Потом выловила официанта, говорит, если не работает, идите на кассу",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxLVlMOHp3RRAB",
+      "authorName": "Вадим Еремин",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Отличное место , советую хоть раз сходить",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxdWRPM2tRRRAB",
+      "authorName": "Оля Иванова",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Супер. Отличный суп из обеда с паштетом.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxdWZuWFhBEAE",
+      "authorName": "denis bibik",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxa1lQVmdBRRAB",
+      "authorName": "Юрий Дучинский",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxX0tXbF9RRRAB",
+      "authorName": "Александр Бобровский",
+      "rating": 4,
+      "date": "4 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxckszYmJREAE",
+      "authorName": "Elena Ulianova",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Мне очень нравится! Быстро, вкусно, адекватно!",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNxbElQWjBBRRAB",
+      "authorName": "Виктор Коновалов",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Всё очень понравилось. Вкусно и цены хорошие. Советую.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNxb0tPSEhREAE",
+      "authorName": "Ася Бочевар",
+      "rating": 5,
+      "date": "4 года назад",
+      "text": "Суп Буйабес, морепродукты и рыба очень вкусные. Паста и бургеры на троечку. Обслуживание стандартное как и во всей сети.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURScDhmU0FREAE",
+      "authorName": "Мария Крюкова",
+      "rating": 1,
+      "date": "3 года назад",
+      "text": "На майских праздниках решили устроить семейный ужин в Моремании. В итоге отравились все, кто ел устрицы. Симптомы отравления появились на следующие сутки и длились около 2-х дней (температура больше 38 и все сопутствующие радости). Судя по другим отзывам в интернете, которые я, к сожалению, прочитала уже после отравления, это далеко не первый случай в ресторанах сети Моремания. Будьте аккуратнее.",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURUelpIQ29RRRAB",
+      "authorName": "Dasha Govorukhina",
+      "rating": 1,
+      "date": "2 года назад",
+      "text": "В наличии продуктов нет, обслуживание отвратительное",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNEMGZtdXl3RRAB",
+      "authorName": "Телеграм ROMARAMAFIT",
+      "rating": 5,
+      "date": "2 года назад",
+      "text": "Был во многих мореманиях,здесь достаточно просторно и находится на 2-м этаже здания. Из новшеств (удивило): при оплате на платежном терминале выскакивает выборочное меню «без чаевых» (первой красной строкой) или оставить определенную сумму сверх заказа (зелеными строчками на выбор)😀",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM5NUtmaXpnRRAB",
+      "authorName": "Наталия Пронина",
+      "rating": 1,
+      "date": "2 года назад",
+      "text": "Не понравилось!",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURkMGNfaHhnRRAB",
+      "authorName": "Valeriia K",
+      "rating": 1,
+      "date": "2 года назад",
+      "text": "Отвратительное место, брони нет- приезжай и толпись будто на большом фуд-корте. Ожидать, что вас кто-то встретит и посадит за столик-нет смысла, персоналу все равно что толпы людей ходят по залу в поисках места. Нужно ходить всем заглядывать в тарелки, смотреть кто уже уходит и бежать занимать место… Очень шумно+ с вышеперечисленными минусами это место не стоит вашего времени.",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR0aXRtaU5nEAE",
+      "authorName": "Юлия Рындина",
+      "rating": 5,
+      "date": "2 года назад",
+      "text": "",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNGdzhhZUp3EAE",
+      "authorName": "Lorena Mir",
+      "rating": 1,
+      "date": "2 года назад",
+      "text": "Были на мероприятии в Крокусе. Зашли в перерыве в Мореманию в Вегасе. Время у нас было ограничено и девушка на кассе предупредила, что наше блюдо (фетучини с семгой) будет готово через 20 мин. Через 15 мин нам принесли холодные фетучини с вкраплениями семги.)) Полное разочарование!",
+      "businessReply": null
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNaMi1xazdnRRAB",
+      "authorName": "Юля Захарова",
+      "rating": 5,
+      "date": "2 года назад",
+      "text": "Еда в заведении очень вкусная. Ожидание достаточно недолгое, но вот способ заказа блюд оставляет желать лучшего. Если у человека нет возможности скачать приложение, он не сможет там поесть. За компанию из 8 человек мы отдали ~10.000р со скидкой. Цены отличные! Были во вторник вечером - свободных мест почти не было",
+      "businessReply": null
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR4c3Q2YUhBEAE",
+      "authorName": "Виктория Копылова",
+      "rating": 3,
+      "date": "2 года назад",
+      "text": "Всё приемлемо, но ужасно громкая музыка, хотя и хорошо подобрана. От громкости больше устаёшь, чем получаешь удовольствие, и отсесть некуда - громко везде. Банально собеседника за столом не слышно, поиходится орать, как в какой-то забегаловке. А еда очень нравится, любим с молодым человеком поиходить сюда кушать.",
+      "businessReply": null
+    }
+  ]
+}
