@@ -1,4 +1,5 @@
-// Добавить эту модель в конец backend/prisma/schema.prisma в репозитории MMANALYT.
+// Добавить эту модель в конец backend/prisma/postgres/schema.prisma в репозитории MMANALYT.
+// (Именно postgres-схема — это та, по которой работает прод.)
 // Затем выполнить миграцию (см. README.md рядом).
 
 model MapReview {

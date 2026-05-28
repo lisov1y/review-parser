@@ -6,13 +6,13 @@
 
 parser:
   build:
-    context: ../parser
+    context: ../review-parser
   environment:
     DATABASE_URL: postgresql://moremania:${POSTGRES_PASSWORD}@postgres:5432/moremania?schema=public
     HEADLESS: "true"
   volumes:
-    - ../parser/data/input:/app/data/input:ro
-    - ../parser/data/output:/app/data/output
+    - ../review-parser/data/input:/app/data/input:ro
+    - ../review-parser/data/output:/app/data/output
     - parser_cache:/root/.cache
   depends_on:
     postgres:

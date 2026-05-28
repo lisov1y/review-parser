@@ -14,12 +14,12 @@
 ```
 /root/
   MMANALYT/    — уже есть
-  parser/      — клонируем сюда наш репозиторий
+  review-parser/ — клонируем сюда наш репозиторий
 ```
 
 ```bash
 cd /root
-git clone <ваш-url-репозитория-парсера> parser
+git clone <ваш-url-репозитория-парсера> review-parser
 ```
 
 > Если репозитория ещё нет — просто скопируйте папку парсера на сервер любым способом (rsync, scp).
@@ -28,30 +28,34 @@ git clone <ваш-url-репозитория-парсера> parser
 
 ### 2.1. Добавить модель в Prisma-схему
 
-Открыть `/root/MMANALYT/backend/prisma/schema.prisma` и в конец файла дописать
+Открыть **`/root/MMANALYT/backend/prisma/postgres/schema.prisma`** (именно
+postgres-вариант — это прод-схема, не SQLite) и в конец файла дописать
 содержимое **`schema-addition.prisma`** (рядом с этим README).
 
-### 2.2. Скопировать миграцию
+### 2.2. Применить схему через `db push`
 
-```bash
-cp -r /root/parser/mmanalyt-patch/migrations/20260528000000_add_map_reviews \
-      /root/MMANALYT/backend/prisma/migrations/
-```
-
-### 2.3. Применить миграцию
-
-Поднять стек, чтобы был доступен Postgres:
+MMANALYT использует `prisma db push` как основной механизм синхронизации БД
+(он запускается на старте backend, в `_prisma_migrations` не пишет — просто
+приводит структуру БД к схеме). Это идемпотентно и аддитивно: новая таблица
+будет создана, остальные не тронуты.
 
 ```bash
 cd /root/MMANALYT
+
+# Поднять Postgres
 docker compose up -d postgres
+
+# Пересобрать образ backend, чтобы он забрал обновлённую schema.prisma
+docker compose build backend
+
+# Применить схему — создаст таблицу map_reviews
+docker compose run --rm backend npx prisma db push \
+  --schema=prisma/postgres/schema.prisma --skip-generate
 ```
 
-Затем выполнить миграцию через backend-контейнер (Prisma уже установлен):
-
-```bash
-docker compose run --rm backend npx prisma migrate deploy
-```
+> Файл `migrations/20260528000000_add_map_reviews/migration.sql` в этом каталоге —
+> запасной вариант на случай, если у MMANALYT когда-нибудь починят `migrate deploy`.
+> Сейчас он не нужен.
 
 Проверить, что таблица создалась:
 
@@ -83,7 +87,7 @@ docker compose run --rm parser
 ```
 
 Парсер обойдёт все 33 точки по трём картам и зальёт отзывы в `map_reviews`.
-Файлы-зеркала JSON останутся в `/root/parser/data/output/<id>-<source>.json` для бэкапа.
+Файлы-зеркала JSON останутся в `/root/review-parser/data/output/<id>-<source>.json` для бэкапа.
 
 Первый прогон может занять час-два (зависит от Google).
 
