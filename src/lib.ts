@@ -7,10 +7,12 @@
 import "dotenv/config";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { launch } from "cloakbrowser";
+import { closeDb, isDbEnabled, upsertReviews } from "./db.js";
 
 export type Point = {
   id: string;
   name: string;
+  restaurantId: number; // id точки в MMANALYT (Bitrix)
   yandex: string;
   "2gis": string;
   google: string;
@@ -188,6 +190,8 @@ async function collectPoint(
   }
 
   await save(platform.source, point, reviewsById);
+  // Записать отзывы в БД MMANALYT (если задан DATABASE_URL).
+  await upsertReviews(platform.source, point, [...reviewsById.values()]);
   const added = reviewsById.size - startSize;
   console.log(
     `[${point.id}] всего отзывов: ${reviewsById.size}` +
@@ -216,7 +220,8 @@ export async function run(platform: Platform) {
   ) as Point[];
   const targets = points.filter((p) => clean(p[platform.urlField]));
   console.log(
-    `[${platform.source}] точек со ссылкой: ${targets.length} из ${points.length}`
+    `[${platform.source}] точек со ссылкой: ${targets.length} из ${points.length}` +
+      (isDbEnabled() ? " (запись в БД включена)" : "")
   );
 
   const browser = await launch({ headless: process.env.HEADLESS === "true" });
@@ -241,6 +246,7 @@ export async function run(platform: Platform) {
 
   await context.close();
   await browser.close();
+  await closeDb();
   console.log(
     `\n[${platform.source}] готово.` +
       (anyUpdate ? ` Новых отзывов за запуск: ${totalAdded}` : "")

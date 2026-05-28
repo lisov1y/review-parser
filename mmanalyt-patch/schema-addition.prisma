@@ -1,0 +1,23 @@
+// Добавить эту модель в конец backend/prisma/schema.prisma в репозитории MMANALYT.
+// Затем выполнить миграцию (см. README.md рядом).
+
+model MapReview {
+  id            Int      @id @default(autoincrement())
+  source        String   // "yandex" | "2gis" | "google"
+  externalId    String   @map("external_id") // id отзыва в источнике
+  restaurantId  String   @map("restaurant_id") // совпадает с Restaurant.id
+
+  authorName    String?  @map("author_name")
+  rating        Int?
+  text          String   @default("")
+  reviewDate    String?  @map("review_date") // как пришло (ISO у Яндекса/2ГИС, относительное у Google)
+  businessReply String?  @map("business_reply")
+
+  collectedAt   DateTime @default(now()) @map("collected_at")
+
+  @@unique([source, externalId])
+  @@index([restaurantId])
+  @@index([source])
+  @@index([restaurantId, source])
+  @@map("map_reviews")
+}
