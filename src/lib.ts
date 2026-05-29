@@ -126,6 +126,13 @@ async function collectPoint(
   let stopListening = () => {};
   let debug = "";
 
+  // Если страница сделала бесполезные fetch'и до того, как сортировка
+  // переключилась на «по новизне», их не должно быть в первом батче — иначе
+  // вмешаются устаревшие данные и ниже не видно различия "все известны" vs
+  // "сорт не успел отработать". `resetBuffer()` дёргается перед самым циклом
+  // скролла. Для `dom`-режима это no-op.
+  let resetBuffer = () => {};
+
   if (platform.mode === "api") {
     // Запросы к API делает страница сама — копим ответы в буфер.
     const { isReviewsResponse, parseResponse } = platform;
@@ -143,6 +150,9 @@ async function collectPoint(
     };
     page.on("response", onResponse);
     stopListening = () => page.off("response", onResponse);
+    resetBuffer = () => {
+      buffer.length = 0;
+    };
     harvest = async () => {
       for (let w = 0; w < 10_000 && buffer.length === 0; w += 400) {
         await sleep(400);
@@ -166,8 +176,22 @@ async function collectPoint(
     });
     await sleep(6000);
     const sorted = await platform.prepare(page);
+    console.log(
+      `  сортировка по новизне: ${sorted ? "ВКЛЮЧЕНА" : "не удалось включить — собираем в дефолтном порядке"}`
+    );
+    // Сброс буфера: всё, что пришло во время загрузки страницы и переключения
+    // сортировки — это потенциально несортированные ответы, которые на первой
+    // итерации запутают «дошли до известных». Считаем только то, что прилетит
+    // после клика по «по новизне» и нашего скролла.
+    resetBuffer();
 
     let emptyScrolls = 0;
+    // Сколько раз подряд получили батч, где не было ни одного нового отзыва.
+    // Один такой батч — повод насторожиться, но не оборвать сбор: на крупных
+    // точках первый скролл может вытащить из буфера старый «топ», и только
+    // следующий — реально свежие. Требуем минимум двух подряд, чтобы убедиться,
+    // что хвост действительно начался.
+    let allKnownStreak = 0;
     for (let i = 0; i < MAX_SCROLLS; i++) {
       const sizeBefore = reviewsById.size;
 
@@ -181,7 +205,18 @@ async function collectPoint(
 
       const gotNew = reviewsById.size > sizeBefore;
       if (total > 0 && reviewsById.size >= total) break; // собрали все отзывы
-      if (isUpdate && sorted && reviews.length > 0 && !gotNew) break; // дошли до известных
+
+      if (isUpdate && sorted && reviews.length > 0 && !gotNew) {
+        allKnownStreak += 1;
+        // Нужно ДВЕ подряд итерации без новых, чтобы быть уверенными, что
+        // мы реально в «известном» хвосте. Иначе на крупных точках Pakhra/Strastnoy
+        // первый батч может оказаться кэшированным «топом» — а свежие реально
+        // подъедут только на втором.
+        if (allKnownStreak >= 2) break;
+      } else if (gotNew) {
+        allKnownStreak = 0;
+      }
+
       emptyScrolls = gotNew ? 0 : emptyScrolls + 1;
       if (emptyScrolls >= 5) break; // новые отзывы перестали появляться
     }

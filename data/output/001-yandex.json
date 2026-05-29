@@ -2,13 +2,30 @@
   "point": {
     "id": "001",
     "name": "Моремания Пахра",
+    "restaurantId": 788,
     "yandex": "https://yandex.com/maps/org/moremania/1792287678/",
     "2gis": "https://2gis.ru/moscow/search/%D0%9C%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%B0%D1%85%D1%80%D0%B0/firm/70000001020859475/tab/reviews",
     "google": "https://www.google.com/maps/place/%D0%9C%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F/@55.4300201,37.276506,18z/data=!4m8!3m7!1s0x414aacb72a6e4a51:0xe9c524d86d0c417f!8m2!3d55.4299876!4d37.2769794!9m1!1b1!16s%2Fg%2F11hyl55rnr?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
-  "collectedAt": "2026-05-27T06:39:50.061Z",
-  "reviewsCount": 608,
+  "collectedAt": "2026-05-29T05:46:55.005Z",
+  "reviewsCount": 610,
   "reviews": [
+    {
+      "id": "maaKppUd3vSxROtpvw25ARy5jfapctI",
+      "authorName": "Лев Кремнёв",
+      "rating": 3,
+      "date": "2026-05-28T17:13:11.844Z",
+      "text": "Это заведение мне очень нравится, еда и напитки там вкусные, особенно порадовало то, что сделали второй этаж (хоть это и было шесть лет назад). Но цены, размер и сервис оставляют желать лучшего. Для провинциальной кафешки очень даже ничего",
+      "businessReply": null
+    },
+    {
+      "id": "QV5OPgpUfRfdUuMX-7uGR0Mq2Jw5tZNsv",
+      "authorName": "Константин Карпов",
+      "rating": 5,
+      "date": "2026-05-27T15:36:54.153Z",
+      "text": "Вкусно.",
+      "businessReply": null
+    },
     {
       "id": "64malnJO7fC1FEwF9JHzCPIwri5eDS-",
       "authorName": "Иван Дудин",
